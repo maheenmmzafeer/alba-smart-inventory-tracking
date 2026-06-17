@@ -99,8 +99,8 @@ Additional visual assets are available in the `screenshots/` folder.
 ## Project Documentation
 
 - [Project Poster](./poster/Smart_Inventory_Tracking_Poster.pdf)
-- [Presentation Part 1](./presentation/Smart_Inventory_Tracking_Presentation_Part_1.pptx)
-- [Presentation Part 2](./presentation/Smart_Inventory_Tracking_Presentation_Part_2.pptx)
+- [Presentation Part 1](./presentation/Smart_Inventory_Tracking_Presentation_Part_1.pdf)
+- [Presentation Part 2](./presentation/Smart_Inventory_Tracking_Presentation_Part_2.pdf)
 - [Demonstration Video](./videos/Smart_Inventory_Tracking_Demo.mp4)
 
 The full project demonstration video is available in the videos folder.
