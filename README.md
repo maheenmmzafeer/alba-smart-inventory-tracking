@@ -130,6 +130,21 @@ Operational benefits include:
 - improved accountability through audit-ready transaction history
 - clearer reporting for planning, maintenance review and stock decisions
 
+## Recognition & Showcases
+
+This project was selected for presentation at:
+
+- Arab Open University Career Fair project showcase
+- Arab Open University IT Club best projects showcase
+
+### Career Fair Showcase
+
+![Career Fair Showcase](./docs/showcase/Career_Fair_Showcase.jpg)
+
+### IT Club Recognition
+
+![IT Club Certificate](./docs/showcase/IT_Club_Certificate.jpg)
+
 ## Future Enhancements
 
 - Support for multiple stores or warehouse locations
