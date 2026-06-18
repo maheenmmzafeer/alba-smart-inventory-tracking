@@ -82,17 +82,21 @@ The core challenge was to provide a single, reliable system that could:
 
 The screenshots below highlight the main application workflows and user experience.
 
-| Login | Home | Inventory |
-| --- | --- | --- |
-| ![Login Page](./screenshots/Login_Page.png) | ![Home Page](./screenshots/Home_Page.png) | ![Inventory Page](./screenshots/Inventory_Page.png) |
+### Homepage
 
-| Item Details | Barcode Scanner | Orders |
-| --- | --- | --- |
-| ![Item Details Page](./screenshots/Inventory_Details_Page.png) | ![Barcode Scanner](./screenshots/Barcode_Scanner.png) | ![Orders Page](./screenshots/Orders_Page.png) |
+![Home Page](./screenshots/Home_Page.png)
 
-| Reports | Transactions | Low Stock Alert |
-| --- | --- | --- |
-| ![Reports Page](./screenshots/Reports_Page.png) | ![Transactions History](./screenshots/Transactions_History_Page.png) | ![Low Stock Alert](./screenshots/Low_Stock_Alert.png) |
+### Inventory Page
+
+![Inventory Page](./screenshots/Inventory_Page.png)
+
+### Item Details Page
+
+![Item Details Page](./screenshots/Inventory_Details_Page.png)
+
+### Reports Page
+
+![Reports Page](./screenshots/Reports_Page.png)
 
 Additional visual assets are available in the `screenshots/` folder.
 
