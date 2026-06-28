@@ -57,7 +57,6 @@ The core challenge was to provide a single, reliable system that could:
 | Charts and Analytics | fl_chart |
 | Reports and Export | pdf, printing |
 | File and Image Handling | file_picker, image_picker, image |
-| UI Icons | font_awesome_flutter, Material Icons |
 | Version Control | Git, GitHub |
 
 ## System Design
